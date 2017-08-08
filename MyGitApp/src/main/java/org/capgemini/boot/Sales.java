@@ -6,4 +6,8 @@ public class Sales {
 		System.out.println("how are you thirumurugan");
 	}
 	
+	public void showmethod(){
+		System.out.println("I hope you are doing good");
+	}
+	
 }
