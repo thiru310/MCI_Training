@@ -10,4 +10,8 @@ public class Sales {
 		System.out.println("I hope you are doing good");
 	}
 	
+	public void showmethod1(){
+		System.out.println("I hope you are doing good");
+	}
+	
 }
