@@ -10,7 +10,7 @@ public class FirstGitApp {
 	}
 	
 	public static void greetings(){
-		System.out.println("Hello thirumurugan");
+		System.out.println("Hello thirumurugan!!!!");
 	}
 
 }
